@@ -1,0 +1,9 @@
+Index: README.md
+===================================================================
+diff --git a/README.md b/README.md
+deleted file mode 100644
+--- a/README.md	(revision 244c13384b9f13edd423a22d0deb69621c486022)
++++ /dev/null	(revision 244c13384b9f13edd423a22d0deb69621c486022)
+@@ -1,1 +0,0 @@
+-# vinoteca
+\ No newline at end of file
